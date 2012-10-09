@@ -16,4 +16,3 @@ end
 
 gem 'jquery-rails', '2.1.2'
 
-
